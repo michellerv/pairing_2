@@ -13,9 +13,9 @@ if (getsSunshine === true && ouncesOfWater >= 10){
    var ouncesOfWater = 1
    
    if (getsSunshine === true && ouncesOfWater >= 10){
-       console.log("Plant will thrive!");
+       console.log("Good job, plant parent");
    }
       else if (getsSunshine === false || ouncesOfWater < 10){
-       console.log("Plant will die!")
+       console.log("Treat your plant better")
       }
    
